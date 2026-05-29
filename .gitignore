@@ -1,0 +1,28 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.hwdef
+*.hdf
+*.xsa
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Vitis / Eclipse
+.metadata/
+RemoteSystemsTempFiles/
+*.elf
+*.o
+*.a
+*.bin
+.analytics/
+_ide/
+Debug/
+Release/
